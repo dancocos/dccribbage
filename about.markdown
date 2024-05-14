@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Duffy’s Cap Hill East
+DC Cribbage League
 
 Mondays 7pm
 

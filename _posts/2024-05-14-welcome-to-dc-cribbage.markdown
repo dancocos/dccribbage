@@ -5,7 +5,7 @@ date:   2024-05-14 12:14:58 -0400
 categories: update
 ---
 
-Getting ready to kick off the DC Cribbage League host at Duffy's Cap Hill East 
+Getting ready to kick off the DC Cribbage League hosted at Duffy's Cap Hill East 
 
 We don't have an official start date yet but the plan is 
 
