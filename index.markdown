@@ -6,7 +6,7 @@ layout: home
 ---
 DC Cribbage League
 
-Mondays 7pm
+Tuesdays 6pm
 
 [Duffy's Cap Hill East](https://dcduffys.com/duffys-cap-hill-east/)
 
