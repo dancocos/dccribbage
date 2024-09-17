@@ -7,9 +7,7 @@ categories: update
 
 Getting ready to kick off the DC Cribbage League hosted at Duffy's Cap Hill East 
 
-We don't have an official start date yet but the plan is 
-
-Mondays 7pm
+Tuesdays 6pm
 
 Duffy's Cap
 Hill East
