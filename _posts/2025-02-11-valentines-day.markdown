@@ -1,19 +1,18 @@
 ---
 layout: post
-title:  "Welcome to The DC Cribbage League"
-date:   2024-09-17 12:14:58 -0400
+title:  "💕 Love and Cards at Duffy's"
+date:   2025-02-11 12:14:58 -0400
 categories: update
 ---
 
-Getting ready to kick off the DC Cribbage League hosted at Duffy's Cap Hill East 
+Join us for the 💕Valentine’s Day💕 edition of of DC Cribbage League. 
+Despite the potential for a winter storm we still plan on playing. 
+If anything changes and the weather actually takes a turn for the worse I’ll send out a cancellation notice. 
 
-Tuesdays 6pm
-
-Duffy's Cap
-Hill East
-
+6pm-8pm
+Duffy’s Hill East 
 1901 C St SE
-Washington, DC 20003
-Stadium Armory Metro
+Washington DC
+
 
 For more information email [DC Dan](dan@dcdan.com)
