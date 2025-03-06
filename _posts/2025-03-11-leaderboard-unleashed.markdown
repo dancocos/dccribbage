@@ -7,7 +7,7 @@ categories: update
 
 The forever hospitable Belen brought in a board to post the weekly DC Cribbage winners and give them bragging rights for the whole week. 
 
-The winners for the March 3, 2025 matches were Jason and John. Congratulations!
+The winners for the March 4, 2025 matches were Jason and John. Congratulations!
 
 ![Jason and John are the first to be posted on the winners board.](/images/winners-week1.png)
 
