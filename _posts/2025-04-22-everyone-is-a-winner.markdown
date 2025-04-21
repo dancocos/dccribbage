@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "We All Live in a Yellow Submarine"
-date:   2025-04-15 12:14:58 -0400
+title:  "Everyone's a Winner"
+date:   2025-04-22 12:14:58 -0400
 categories: update
 ---
 
-Navy John has the bragging rights for the week.
+Last week Evan, Kevin and Nancy got the bragging rights for the week.
 
-![Navy John has bragging rights. ](/images/yellow-submarine.png)
+![Lots of winners](/images/everyone-is-a-winner.png)
 
 
 Hope to see you there.
