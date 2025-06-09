@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome Back Kotter"
-date:   2025-06-3 12:14:58 -0400
+date:   2025-06-03 12:14:58 -0400
 categories: update
 ---
 
