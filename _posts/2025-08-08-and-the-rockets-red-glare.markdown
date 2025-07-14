@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "And the Rocket's Red Glare"
+title:  "And the Rockets' Red Glare"
 date:   2025-08-08 12:14:58 -0400
 categories: update
 ---
