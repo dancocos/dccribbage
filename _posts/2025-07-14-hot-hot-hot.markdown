@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hot Hot Hot"
-date:   2025-08-15 12:14:58 -0400
+date:   2025-07-15 12:14:58 -0400
 categories: update
 ---
 
