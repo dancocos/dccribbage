@@ -7,7 +7,7 @@ categories: update
 
 The weather finally broke and it's safe to go outside. Hope to see everyone there on Tuesday.
 Last week's winners Jason and Kevin, high scores go to Laurie and Mel.
-[Jason, Kevin, Laurie, Mel](/images/08-05-2025.png) 
+![Jason, Kevin, Laurie, Mel](/images/08-05-2025.png) 
 
 6pm-8pm
 Duffy’s Hill East
