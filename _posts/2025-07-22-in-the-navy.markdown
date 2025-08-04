@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "In the Navy"
-date:   2025-07
--22 12:14:58 -0400
+date:   2025-07-22 12:14:58 -0400
 categories: update
 ---
 
