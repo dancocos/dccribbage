@@ -10,7 +10,7 @@ Some of the reglar crew represented during an Alaskan cruise
 
 
 Last week's winners McKaren and Nancy put on a clinic. High score goes to Human Sam.
-![Human Sam, McKaren and Nancy](/images/08-05-2025.png)
+![Human Sam, McKaren and Nancy](/images/08-12-2025.png)
 
 6pm-8pm
 Duffy’s Hill East
