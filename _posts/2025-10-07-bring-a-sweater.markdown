@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Almost Sweater Weather"
-date:   2025-09-30 09:00:00 -0400
+date:   2025-10-07 09:00:00 -0400
 categories: update
 ---
 
