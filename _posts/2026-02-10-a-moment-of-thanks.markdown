@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Moment of Thanks"
-date:   2026-10-03 09:00:00 -0400
+date:   2026-02-10 09:00:00 -0400
 categories: update
 ---
 
