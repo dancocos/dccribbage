@@ -17,7 +17,7 @@ As I write this week's update my emotions are much like "Joy & Pain" by Rob Base
 
 DC Cribbage is all about the people that show up and *you* showed up in force we counted 24 people the largest turn out ever. We also had some visitors from Jersey, not the home of Jersey Mike's the OG [Jersey.](https://en.wikipedia.org/wiki/Jersey) Thank you all!
 
-To add to the joy is the announcement of our new home,  [Trusty's](https://trustysdc.com) another local neighborhood establishment. We'll play on the patio, don't worry it's covered and heated. If you're unfamiliar with Trusty's the patio is upstairs, the stairs are just past the front door on the right. 
+To add to the joy is the announcement of our new home,  [Trusty's](https://trustysdc.com) another local neighborhood establishment. We'll play on the patio, don't worry it's covered and heated. If you're unfamiliar with Trusty's the patio is upstairs, the stairs are just past the front door on the right. Also cheesesteaks, mmmmm, cheesesteaks.
 
 ### Pain
 February 24, will be our last session at Duffy's. Duffy's has been a consummate host, keeping us filled up with wings and various other fried delicacies, pretzels 🧑‍🍳 👌💋 and making sure we were never dehydrated. 
@@ -39,6 +39,5 @@ Starting in March
 [Trusty's](https://trustysdc.com)
 1420 Pennsylvania Avenue Southeast
 Washington, DC
-20003
 
 For more information email [DC Dan](dan@dcdan.com)
