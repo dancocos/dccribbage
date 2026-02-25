@@ -21,7 +21,7 @@
 title: DC Cribbage League
 email: dan@dcdan.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Weekly Cribbage at Duffy's on Tuesdays
+  Weekly Cribbage at Trusty's on Tuesdays
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: dccribbage

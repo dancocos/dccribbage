@@ -14,11 +14,11 @@ I promise only one email a week, no spam and no funny business.
 
 Tuesdays 6pm
 
-[Duffy’s Cap Hill East](https://dcduffys.com/duffys-cap-hill-east/)
+[Trusty's](https://trustysdc.com)
 
-[1901 C St SE Washington, DC 20003](https://maps.app.goo.gl/QtC691UnGb3eh9WFA)
+[1420 Pennsylvania Avenue Southeast, Washington, DC 20003](https://maps.app.goo.gl/wUACfGGd5aoeAe6X8)
 
-Stadium Armory Metro (Orange/Blue/Silver Lines)
+Potomac Ave Metro (Orange/Blue/Silver Lines)
 
 Beginners welcome, we'll teach you how to play.
 
