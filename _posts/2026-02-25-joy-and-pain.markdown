@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Joy and Pain"
+date:   2026-02-25 09:00:00 -0400
+categories: update
+---
+
 Newcomer Jennifer had a high hand of 22 points, and Civilian John collected the win. 
 
 As I write this week's update, my emotions are much like "Joy & Pain" by Rob Base & DJ EZ Rock. 
