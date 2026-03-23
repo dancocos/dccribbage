@@ -207,6 +207,29 @@
   @include relative-font-size(1.5);
 }
 
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: $spacing-unit 0;
+
+  .pagination-item {
+    padding: 6px 12px;
+    color: $grey-color-dark;
+    text-decoration: none;
+
+    &.disabled {
+      color: $grey-color-light;
+    }
+  }
+
+  a.pagination-item {
+    &:hover {
+      background-color: $grey-color-light;
+    }
+  }
+}
+
 
 
 /**

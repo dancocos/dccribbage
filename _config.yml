@@ -30,6 +30,10 @@ google_analytics: G-MZ3HJWZHFR
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page:num/"
 
 future: true
 # Exclude from processing.
