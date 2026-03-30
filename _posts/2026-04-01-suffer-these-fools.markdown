@@ -2,7 +2,8 @@
 layout: post
 title:  "Suffer These Fools"
 date:   2026-04-01 09:00:00 -0400
-categories: update
+categories: ["update"]
+
 ---
 
 The newcomer Allie, had the most wins and had the high hand. 
@@ -25,3 +26,14 @@ A     = 21 (for 6)
 
 In spirit of the trivia that follows cribbage each week. Fun fact
 [John Suckling](https://en.wikipedia.org/wiki/John_Suckling_(poet)) created the game of cribbage and no, this is not an April Fool's Day prank. 
+
+
+DC Cribbage
+
+Tuesdays 6pm-8pm
+
+[Trusty's](https://trustysdc.com)
+1420 Pennsylvania Avenue Southeast
+Washington, DC
+
+For more information email [DC Dan](mailto:dan@dcdan.com?Subject=Cribbage)
