@@ -1,9 +1,8 @@
-layout: post
 ---
 title:  "Enjoy it While It Lasts"
 date:   2026-04-07 09:00:00 -0400
 categories: ["update"]
-
+layout: post
 ---
 
 Bridgett had the most wins. Newcomer John, now known as "New John," had a 24 point hand.
