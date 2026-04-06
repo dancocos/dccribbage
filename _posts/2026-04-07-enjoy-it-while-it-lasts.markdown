@@ -1,6 +1,6 @@
 layout: post
 ---
-title:  "Enjoy it While It Lats"
+title:  "Enjoy it While It Lasts"
 date:   2026-04-07 09:00:00 -0400
 categories: ["update"]
 
