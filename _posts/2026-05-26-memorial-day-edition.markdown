@@ -12,8 +12,11 @@ means I did not make the best decisions.
 Hope to see everyone tomorrow. 
 
 DC Cribbage League
+
 ![DC Cribbage Logo](/images/logo-small.png)
+
 Tuesdays 6pm
+
 Trusty's
 1420 Pennsylvania Avenue Southeast, Washington, DC 20003
 Potomac Ave Metro (Orange/Blue/Silver Lines)
