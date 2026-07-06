@@ -1,6 +1,6 @@
 ---
 title:  "I Did Not Realize How Much People Relied on This Email"
-date:   2026-06-23 09:00:00 -0400
+date:   2026-06-30 09:00:00 -0400
 categories: ["update"]
 layout: post
 ---
