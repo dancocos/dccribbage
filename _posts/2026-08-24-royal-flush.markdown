@@ -6,7 +6,7 @@ layout: post
 ---
 Bree (I think I spelled that right) had a straight flush and was understandably bothered that it wasn't worth more points.
 
-![royal-with-cheese.png](images/royal-with-cheese.png)
+![royal-with-cheese.png](/images/royal-with-cheese.png)
 
 Hope to see everyone this week.
 
