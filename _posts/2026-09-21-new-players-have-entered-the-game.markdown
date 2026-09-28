@@ -16,6 +16,10 @@ Hope to see you there.
 
 Tuesdays at 6pm
 
+
+![DC Cribbage Logo](/images/logo-small.png)
+
+
 Trusty's
 1420 Pennsylvania Avenue Southeast, Washington, DC 20003
 Potomac Ave Metro (Orange/Blue/Silver Lines)
