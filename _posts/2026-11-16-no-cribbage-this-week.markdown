@@ -8,7 +8,7 @@ categories: ["update"]
 Reminder that there is NO cribbage this week. Trusty's is closed for a private event.
 
 With the holiday's coming up, it's a good time to remind people that there is a tradition that one shouldn't have to buy their own cribbage board and that they should receive it as a gift.
-![Cribbage boards](/images/boards.png))
+![Cribbage boards](/images/boards.png)
 
 I prefer the [larger board](https://link.amazon/B0aLGPDsy) on the right
 
